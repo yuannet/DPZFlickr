@@ -17,5 +17,10 @@
             "homepage": "http://dopiaza.org",
             "role": "Developer"
         }
-    ]
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.2-dev"
+        }
+    }
 }
