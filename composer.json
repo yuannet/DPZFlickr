@@ -2,6 +2,7 @@
     "name": "dopiaza/dpzflickr",
     "type": "library",
     "description": "PHP client library for Flickr.",
+    "version": "1.0.0",
     "require": {
         "php": ">=5.3.0",
         "ext-curl": ">=1"
